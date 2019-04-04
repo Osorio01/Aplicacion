@@ -14,3 +14,9 @@ background-color: #333333;
 	color: #FFFFFF;
 	text-align: center;
 }
+.borde{
+	border: solid black 4px; 
+}
+.borde2{
+	border-top: solid red 2px;
+}
